@@ -41,3 +41,9 @@ i'm currently studying
 [![](https://visitcount.itsvg.in/api?id=Nairi-Khachatryan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+![snake gif](https://github.com/Nairi-Khachatryan/Nairi-Khachatryan/blob/output/github-contribution-grid-snake.svg)
+
+
